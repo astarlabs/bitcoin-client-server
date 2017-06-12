@@ -1,8 +1,8 @@
 [
 	{
-		"fulladdress" : "http://52.168.143.16:8085/v2",
-		"host" : "52.168.143.16",
-		"port" : 8085,
+		"fulladdress" : "http://blockchain.astar.tech/v2",
+		"host" : "blockchain.astar.tech",
+		"port" : 80,
 		"version" : "v2",
 		"protocol" : "http"
 	}
