@@ -2,7 +2,7 @@
 	{
 		"fulladdress" : "https://blockchain.astar.tech/v2",
 		"host" : "blockchain.astar.tech",
-		"port" : 443,
+		"port" : 80,
 		"version" : "v2",
 		"protocol" : "https"
 	}
