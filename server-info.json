@@ -1,6 +1,6 @@
 [
 	{
-		"fulladdress" : "https://blockchain2.astar.tech/v2",
+		"fulladdress" : "https://blockchain.astar.tech/v2",
 		"host" : "blockchain.astar.tech",
 		"port" : 80,
 		"version" : "v2",
